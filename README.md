@@ -1,0 +1,1 @@
+# Simple SDK to work with SEC EDGAR.
