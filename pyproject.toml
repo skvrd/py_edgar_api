@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "py-edgar-api"
-version = "0.1.3"
+version = "0.1.4"
 description = "Simple package to work with SEC EDGAR"
 authors = ["grisha <grisha@grisha.co>"]
 readme = "README.md"
